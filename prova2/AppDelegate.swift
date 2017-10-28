@@ -7,6 +7,10 @@
 //
 
 import UIKit
+import Alamofire
+import SwiftyJSON
+
+
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -15,8 +19,27 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+        registerForPushNotifications(application :application)
         // Override point for customization after application launch.
         return true
+    }
+    
+    func application(didFailToRegisterForRemoteNotificationsWithError error : NSError){
+    
+    print("failed to register" ,error)
+    }
+    
+    func application(_ application:UIApplication, didRegisterForRemoteNotificationsWithDeviceToken deviceToken : Data){
+        
+    
+        let tokenStringtest = deviceToken.reduce("",{$0 + String(format :"%02X",   $1)})
+        print("deviceToken : \(tokenStringtest)")
+        var tokenString = ""
+        
+        for i in 0..<deviceToken.count{
+            tokenString += String(format: "%02.2hhx" , arguments :[deviceToken[i]])
+        }
+        
     }
 
     func applicationWillResignActive(_ application: UIApplication) {
@@ -40,6 +63,46 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func applicationWillTerminate(_ application: UIApplication) {
         // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
     }
+    
+    func registerForPushNotifications(application: UIApplication) {
+        let notificationSettings = UIUserNotificationSettings(
+            types: [.badge, .sound, .alert], categories: nil)
+        application.registerUserNotificationSettings(notificationSettings)
+    }
+    
+    static func setUserNotificationToken(token: String, completionHandler: @escaping (_ success:Bool) -> ()) {
+        let parameters = [
+            "token": token
+        ]
+       
+        Alamofire.request("fff",method : .post, parameters: parameters)
+            .validate()
+            .responseJSON { response in
+                switch response.result {
+                case.success:
+                    print(response)
+                    if let value = response.result.value {
+                        let json = JSON(value)
+                        
+                        // We did it
+                        
+                        completionHandler(true)
+                        return
+                    }
+                case.failure(let error):
+                    print(error)
+                }
+                
+                completionHandler(false)
+        }
+    }
+    
+    
+    
+   
+    
+    
+    
 
 
 }
