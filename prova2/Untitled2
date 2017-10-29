@@ -1,0 +1,324 @@
+
+
+Oct 25 16:52:59 Danilos-iPad com.apple.debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+	[239] <Warning>: Got a connection, waiting for process information for launching or attaching.
+Oct 25 16:52:59 Danilos-iPad com.apple.debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+	[239] <Warning>: Sending AppProxy info: sequence no: 157, GUID: 9B9B712B-1467-49A9-8AB9-9143E4E744B8.
+Oct 25 16:52:59 Danilos-iPad com.apple.debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+	[239] <Error>: error: Unrecognized event type: .  Ignoring.
+Oct 25 16:52:59 Danilos-iPad com.apple.debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+	[239] <Warning>: About to launch process for bundle ID: com.deathhammer.homekittryout
+Oct 25 16:52:59 Danilos-iPad SpringBoard[46] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 16:52:59 Danilos-iPad SpringBoard[46] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 16:52:59 Danilos-iPad SpringBoard[46] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 16:52:59 Danilos-iPad com.apple.xpc.launchd[1] (UIKitApplication:com.deathhammer.homekittryout[0x6b18]) <Error>: The DisableASLR key is no longer respected. Please remove it.
+Oct 25 16:52:59 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:52:59 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:52:59 Danilos-iPad amfid[145] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 16:52:59 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:52:59 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:52:59 Danilos-iPad amfid[145] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 16:53:00 Danilos-iPad kernel[0] <Notice>: xpcproxy[241] Container: /private/var/mobile/Containers/Data/Application/CC7BFA91-5BE5-4610-889B-D9CE7B73F91A (sandbox)
+Oct 25 16:53:00 Danilos-iPad com.apple.debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+	[239] <Warning>: In completion handler, got pid for bundle id, pid: 241.
+Oct 25 16:53:00 Danilos-iPad com.apple.debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+	[239] <Warning>: Got a connection, launched process /private/var/containers/Bundle/Application/4FF9EA06-4CC4-4CDA-A971-2D09D5FDF4DB/prova2.app (pid = 241).
+Oct 25 16:53:00 Danilos-iPad SpringBoard[46] <Warning>: LICreateIconForImage passed NULL CGImageRef image
+Oct 25 16:53:00 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:53:00 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:53:00 Danilos-iPad amfid[145] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 16:53:00 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:53:00 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:53:00 Danilos-iPad amfid[145] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 16:53:00 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:53:00 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:53:00 Danilos-iPad amfid[145] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 16:53:00 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:53:00 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:53:00 Danilos-iPad amfid[145] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 16:53:00 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:53:00 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:53:00 Danilos-iPad amfid[145] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 16:53:00 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:53:00 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:53:00 Danilos-iPad amfid[145] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 16:53:00 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:53:00 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:53:00 Danilos-iPad amfid[145] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 16:53:00 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:53:00 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:53:00 Danilos-iPad amfid[145] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 16:53:00 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:53:00 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:53:00 Danilos-iPad amfid[145] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 16:53:00 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:53:00 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:53:00 Danilos-iPad amfid[145] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 16:53:00 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:53:00 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:53:00 Danilos-iPad amfid[145] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 16:53:00 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:53:00 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:53:00 Danilos-iPad amfid[145] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 16:53:00 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:53:00 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:53:00 Danilos-iPad amfid[145] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 16:53:00 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:53:00 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:53:00 Danilos-iPad amfid[145] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 16:53:00 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:53:00 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:53:00 Danilos-iPad amfid[145] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 16:53:00 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:53:00 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:53:00 Danilos-iPad amfid[145] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 16:53:02 Danilos-iPad com.apple.xpc.launchd[1] <Error>: assertion failed: 13G36: launchd + 85529 [083E000D-4C31-3B98-A2C4-6FADB4D1940F]: 0x3
+Oct 25 16:54:37 Danilos-iPad syncdefaultsd[236] <Notice>: (Note ) marked "com.me.keyvalueservice" topic as "enabled" on <APSConnection: 0x1455b820>
+Oct 25 16:55:07 Danilos-iPad kernel[0] <Notice>: virtual IOReturn AppleUSBDeviceMux::message(UInt32, IOService *, void *) - kMessageInterfaceWasDeActivated
+Oct 25 16:55:07 Danilos-iPad kernel[0] <Notice>: AppleUSBDeviceMux::reportStats: USB mux statistics: 
+Oct 25 16:55:07 Danilos-iPad kernel[0] <Notice>: USB mux: 4045 reads / 0 errors, 2811 writes / 0 errors
+Oct 25 16:55:07 Danilos-iPad kernel[0] <Notice>: USB mux: 0 short packets, 0 dups
+Oct 25 16:55:07 Danilos-iPad com.apple.debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+	[239] <Warning>: debugserver's event read thread is exiting, detaching from the inferior process.
+Oct 25 16:55:07 Danilos-iPad com.apple.debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+	[239] <Warning>: 1 +0.000000 sec [00ef/0a0b]: Disabling breakpoints and watchpoints, and detaching from 241.
+Oct 25 16:55:07 Danilos-iPad com.apple.debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+	[239] <Warning>: 2 +0.002176 sec [00ef/0a0b]: error: ::ptrace (request = PT_THUPDATE, pid = 0x00f1, tid = 0x2807, signal = -1) err = Invalid argument (0x00000016)
+Oct 25 16:55:07 Danilos-iPad ptpd[160] <Notice>: PTP interface has been deactivated.
+Oct 25 16:55:07 Danilos-iPad notification_proxy[173] <Error>: 0x1f081000 -[MNPLockdownConnection receiveMessage]: lockdown_receive_message error!
+Oct 25 16:55:07 Danilos-iPad notification_proxy[173] <Error>: 0x1f115000 -[MNPLockdownConnection receiveMessage]: lockdown_receive_message error!
+Oct 25 16:55:07 Danilos-iPad notification_proxy[173] <Error>: 0x1f197000 -[MNPLockdownConnection receiveMessage]: lockdown_receive_message error!
+Oct 25 16:55:07 Danilos-iPad notification_proxy[173] <Error>: 0x1f219000 -[MNPLockdownConnection receiveMessage]: lockdown_receive_message error!
+Oct 25 16:55:07 Danilos-iPad notification_proxy[173] <Error>: 0x1f31d000 __37-[MNPLockdownConnection sendMessage:]_block_invoke: lockdown_send_message error, message: {
+	    Command = RelayNotification;
+	    Name = "com.apple.system.powersources.percent";
+	}, connection: <MNPLockdownConnection: 0x14e4da60>
+Oct 25 16:55:07 Danilos-iPad com.apple.debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+	[239] <Warning>: Exiting.
+Oct 25 16:55:08 Danilos-iPad ptpd[160] <Notice>: Photo library available
+Oct 25 16:55:08 Danilos-iPad ptpd[160] <Notice>: PTP interface has been activated at high speed.
+Oct 25 16:55:27 Danilos-iPad ptpd[160] <Notice>: PTP interface has been deactivated.
+Oct 25 16:55:30 Danilos-iPad ptpd[160] <Notice>: Photo library available
+Oct 25 16:55:30 Danilos-iPad ptpd[160] <Notice>: PTP interface has been activated at high speed.
+Oct 25 16:55:32 Danilos-iPad ptpd[160] <Warning>: #### Storage allocated/var/mobile/Media 
+Oct 25 16:55:34 Danilos-iPad installd[41] <Notice>: 0x1f115000 -[MIClientConnection lookupUninstalledWithOptions:completion:]: Lookup uninstalled requested by atc (pid 34) with options (null)
+Oct 25 16:55:34 Danilos-iPad timed[39] <Notice>: (Note ) CoreTime: Received time 10/25/2017 20:55:33±60.00 from "MobileLockdown"
+Oct 25 16:55:34 Danilos-iPad timed[39] <Notice>: (Note ) CoreTime: Want active time in 13.13min. Need active time in 8304.80min. Remaining retry interval: 0.000000min.
+Oct 25 16:55:34 Danilos-iPad UserEventAgent[23] <Error>: validateAndAddDefaults(com.apple.timed): End Time (inf) > now (530657734.9) + BACKGROUND_TASK_AGENT_JOB_WINDOW_MAX_TIME_FROM_NOW_SEC (3024000.0) + BACKGROUND_TASK_AGENT_JOB_TIME_ERROR_MARGIN (300.0)
+Oct 25 16:55:34 Danilos-iPad timed[39] <Notice>: (Note ) CoreTime: Current mcc: '0' simulated:'0'.
+Oct 25 16:55:34 Danilos-iPad timed[39] <Notice>: (Note ) CoreTime: Received timezone "America/Los_Angeles" from "MobileLockdown" with mcc 0
+Oct 25 16:55:34 Danilos-iPad timed[39] <Notice>: (Error) CoreTime: Error requesting proactive time check job
+Oct 25 16:55:36 Danilos-iPad syslog_relay[186] <Notice>: syslog_relay read 51 total bytes: 
+	========================
+	ASL is here to serve you
+Oct 25 16:55:36 Danilos-iPad syslog_relay[186] <Notice>: syslog_relay found the ASL prompt. Starting...
+Oct 25 16:55:37 Danilos-iPad ondemandd[164] <Error>: -[ODRBackgroundMaintenance startBackgroundMaintenanceOperations]
+Oct 25 16:55:43 Danilos-iPad gputoolsd[249] <Notice>: schedule invalidation <DYTransport 0x15d2a250, error: lost transport connection (31)>
+Oct 25 16:55:43 Danilos-iPad gputoolsd[249] <Notice>: terminating daemon 0x15d2a010
+Oct 25 16:55:54 Danilos-iPad installd[41] <Error>: 0x1f115000 -[MIBundle isApplicableToOSVersion:error:]: 644: The system version is lower than the minimum OS version specified for bundle at /private/var/containers/Bundle/Application/B989C747-43F5-4192-89C7-2D64BDE80006/iTranslate.app/PlugIns/iMessageExtension.appex. Have 9.3.5; need 10.0
+Oct 25 16:55:54 Danilos-iPad installd[41] <Notice>: 0x1f115000 -[MIBundle pluginKitBundlesSkippingPlatformValidation:withError:]: Ignoring plugin at /private/var/containers/Bundle/Application/B989C747-43F5-4192-89C7-2D64BDE80006/iTranslate.app/PlugIns/iMessageExtension.appex because it doesn't work on this OS version
+Oct 25 16:55:54 Danilos-iPad installd[41] <Error>: 0x1f219000 -[MIBundle isApplicableToOSVersion:error:]: 644: The system version is lower than the minimum OS version specified for bundle at /private/var/containers/Bundle/Application/64700839-89BB-4BA0-B851-F683C8858705/Skype.app/PlugIns/Skype Intents Extension.appex. Have 9.3.5; need 10.0
+Oct 25 16:55:54 Danilos-iPad installd[41] <Notice>: 0x1f219000 -[MIBundle pluginKitBundlesSkippingPlatformValidation:withError:]: Ignoring plugin at /private/var/containers/Bundle/Application/64700839-89BB-4BA0-B851-F683C8858705/Skype.app/PlugIns/Skype Intents Extension.appex because it doesn't work on this OS version
+Oct 25 16:55:57 Danilos-iPad lockdownd[30] <Error>: CFStringGetCString error in locklog
+Oct 25 16:55:58 Danilos-iPad mobile_assertion_agent[172] <Notice>: service_one_connection: Connection closed for client iTunes.
+Oct 25 16:57:43 Danilos-iPad profiled[131] <Notice>: (Note ) MC: Provisioning profiles changed
+Oct 25 16:57:43 Danilos-iPad profiled[131] <Notice>: (Note ) MC: Updating MIS trust...
+Oct 25 16:57:45 Danilos-iPad installd[41] <Notice>: 0x1f081000 -[MIClientConnection _doBackgroundInstallationForPath:withOptions:completion:]: Install of "/var/mobile/Media/PublicStaging/prova2.app_sparse.ipa" type Developer (LSInstallType = (null)) requested by streaming_zip_conduit (pid 184)
+Oct 25 16:57:45 Danilos-iPad SpringBoard[46] <Warning>: HW kbd: Failed to set (null) as keyboard focus
+Oct 25 16:57:45 Danilos-iPad com.apple.xpc.launchd[1] (UIKitApplication:com.deathhammer.homekittryout[0x6b18][241]) <Notice>: Service exited due to signal: Killed: 9
+Oct 25 16:57:45 Danilos-iPad installd[41] <Notice>: 0x1f081000 -[MIInstaller performInstallationWithError:]: Installing <MIInstallableBundlePatch ID=com.deathhammer.homekittryout; Version=1, ShortVersion=1.0>
+Oct 25 16:57:45 Danilos-iPad installd[41] <Notice>: 0x1f081000 -[MIInstallableBundlePatch applyPatchWithError:]: Attempting patch update of com.deathhammer.homekittryout from 1 (1.0) to 1 (1.0)
+Oct 25 16:57:45 Danilos-iPad SpringBoard[46] <Warning>: Application 'UIKitApplication:com.deathhammer.homekittryout[0x6b18]' exited abnormally via signal.
+Oct 25 16:57:45 Danilos-iPad UserEventAgent[23] <Warning>: 117570660934: id=com.deathhammer.homekittryout pid=241, state=0
+Oct 25 16:57:46 Danilos-iPad profiled[131] <Notice>: (Note ) MC: Provisioning profiles changed
+Oct 25 16:57:46 Danilos-iPad profiled[131] <Notice>: (Note ) MC: Updating MIS trust...
+Oct 25 16:57:46 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:57:46 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:57:46 Danilos-iPad installd[41] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 16:57:46 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:57:46 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:57:46 Danilos-iPad installd[41] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 16:57:46 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:57:46 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:57:46 Danilos-iPad installd[41] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 16:57:46 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:57:46 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 16:57:46 Danilos-iPad installd[41] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 16:57:46 Danilos-iPad installd[41] <Notice>: 0x1f081000 -[MIInstallableBundle _refreshUUIDForContainer:withError:]: Data container for com.deathhammer.homekittryout is now at /private/var/mobile/Containers/Data/Application/624C8C36-822C-4550-A6C7-8A73AF19BAF6
+Oct 25 16:57:46 Danilos-iPad installd[41] <Notice>: 0x1f081000 -[MIContainer makeContainerLiveReplacingContainer:reason:withError:]: Made container live for com.deathhammer.homekittryout at /private/var/containers/Bundle/Application/62F7761C-011E-43FE-BC1C-7DABC4904B7D
+Oct 25 16:57:47 Danilos-iPad installd[41] <Notice>: 0x1f081000 -[MIInstaller performInstallationWithError:]: Install Successful; Staging: 0.00s; Waiting: 0.00s; Preflight/Patch: 0.48s, Verifying: 0.21s; Overall: 1.46s
+Oct 25 16:57:47 Danilos-iPad pkd[128] <Warning>: releasing plug-in hold DA52AD6B-002F-460A-A8E3-D870D890B521 at client's request
+Oct 25 16:57:47 Danilos-iPad online-auth-agent[182] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 16:57:47 Danilos-iPad syncdefaultsd[257] <Notice>: (Note ) marked "com.me.keyvalueservice" topic as "opportunistic" on <APSConnection: 0x14541700>
+Oct 25 16:57:47 Danilos-iPad SpringBoard[46] <Warning>: Installed apps did change.
+	Added: {(
+	)}
+	Removed: {(
+	)}
+	Modified: {(
+	    "com.deathhammer.homekittryout"
+	)}
+Oct 25 16:57:48 Danilos-iPad syncdefaultsd[257] <Notice>: (Note ) marked "com.me.keyvalueservice" topic as "enabled" on <APSConnection: 0x14541700>
+Oct 25 16:57:49 Danilos-iPad lockdownd[30] <Error>: CFStringGetCString error in locklog
+Oct 25 16:58:12 Danilos-iPad com.apple.debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+	[260] <Warning>: debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+	 for armv7.
+Oct 25 16:58:12 Danilos-iPad com.apple.debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+	[260] <Warning>: Connecting to com.apple.debugserver service...
+Oct 25 16:58:12 Danilos-iPad com.apple.debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+	[260] <Warning>: Got a connection, waiting for process information for launching or attaching.
+Oct 25 16:58:13 Danilos-iPad com.apple.debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+	[260] <Warning>: Sending AppProxy info: sequence no: 158, GUID: 9B9B712B-1467-49A9-8AB9-9143E4E744B8.
+Oct 25 16:58:13 Danilos-iPad com.apple.debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+	[260] <Error>: error: Unrecognized event type: .  Ignoring.
+Oct 25 16:58:13 Danilos-iPad com.apple.debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+	[260] <Warning>: About to launch process for bundle ID: com.deathhammer.homekittryout
+Oct 25 16:58:13 Danilos-iPad SpringBoard[46] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 16:58:13 Danilos-iPad SpringBoard[46] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 16:58:13 Danilos-iPad com.apple.xpc.launchd[1] (UIKitApplication:com.deathhammer.homekittryout[0xf66]) <Error>: The DisableASLR key is no longer respected. Please remove it.
+Oct 25 16:58:13 Danilos-iPad kernel[0] <Notice>: xpcproxy[262] Container: /private/var/mobile/Containers/Data/Application/624C8C36-822C-4550-A6C7-8A73AF19BAF6 (sandbox)
+Oct 25 16:58:13 Danilos-iPad com.apple.debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+	[260] <Warning>: In completion handler, got pid for bundle id, pid: 262.
+Oct 25 16:58:13 Danilos-iPad com.apple.debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+	[260] <Warning>: Got a connection, launched process /private/var/containers/Bundle/Application/62F7761C-011E-43FE-BC1C-7DABC4904B7D/prova2.app (pid = 262).
+Oct 25 16:58:13 Danilos-iPad SpringBoard[46] <Warning>: LICreateIconForImage passed NULL CGImageRef image
+Oct 25 16:58:23 Danilos-iPad com.apple.debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+	[260] <Warning>: debugserver's event read thread is exiting, detaching from the inferior process.
+Oct 25 16:58:23 Danilos-iPad com.apple.debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+	[260] <Warning>: 1 +0.000000 sec [0104/0a0b]: Disabling breakpoints and watchpoints, and detaching from 262.
+Oct 25 16:58:23 Danilos-iPad com.apple.debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+	[260] <Warning>: 2 +0.001831 sec [0104/0a0b]: error: ::ptrace (request = PT_THUPDATE, pid = 0x0106, tid = 0x2907, signal = -1) err = Invalid argument (0x00000016)
+Oct 25 16:58:23 Danilos-iPad com.apple.debugserver-@(#)PROGRAM:debugserver  PROJECT:debugserver-340.3.124
+	[260] <Warning>: Exiting.
+Oct 25 16:58:23 Danilos-iPad com.apple.xpc.launchd[1] <Error>: assertion failed: 13G36: launchd + 85529 [083E000D-4C31-3B98-A2C4-6FADB4D1940F]: 0x3
+Oct 25 16:59:48 Danilos-iPad syncdefaultsd[257] <Notice>: (Note ) marked "com.me.keyvalueservice" topic as "enabled" on <APSConnection: 0x14541700>
+Oct 25 16:59:54 Danilos-iPad SpringBoard[46] <Warning>: LICreateIconForImage passed NULL CGImageRef image
+Oct 25 16:59:55 Danilos-iPad SpringBoard[46] <Warning>: HW kbd: Failed to set (null) as keyboard focus
+Oct 25 17:02:34 Danilos-iPad syslogd[22] <Notice>: ASL Sender Statistics
+Oct 25 17:04:44 Danilos-iPad kernel[0] <Notice>: virtual IOReturn AppleUSBDeviceMux::message(UInt32, IOService *, void *) - kMessageInterfaceWasDeActivated
+Oct 25 17:04:44 Danilos-iPad kernel[0] <Notice>: AppleUSBDeviceMux::reportStats: USB mux statistics: 
+Oct 25 17:04:44 Danilos-iPad kernel[0] <Notice>: USB mux: 3180 reads / 0 errors, 2029 writes / 0 errors
+Oct 25 17:04:44 Danilos-iPad kernel[0] <Notice>: USB mux: 0 short packets, 0 dups
+Oct 25 17:04:44 Danilos-iPad ptpd[160] <Notice>: PTP interface has been deactivated.
+Oct 25 17:04:44 Danilos-iPad notification_proxy[173] <Error>: 0x1f081000 -[MNPLockdownConnection receiveMessage]: lockdown_receive_message error!
+Oct 25 17:04:44 Danilos-iPad notification_proxy[173] <Error>: 0x1f115000 -[MNPLockdownConnection receiveMessage]: lockdown_receive_message error!
+Oct 25 17:04:44 Danilos-iPad notification_proxy[173] <Error>: 0x1f197000 -[MNPLockdownConnection receiveMessage]: lockdown_receive_message error!
+Oct 25 17:04:44 Danilos-iPad notification_proxy[173] <Error>: 0x1f219000 -[MNPLockdownConnection receiveMessage]: lockdown_receive_message error!
+Oct 25 17:04:44 Danilos-iPad com.apple.CDScheduler[23] <Error>: Failed to read UserNextSleepPeriod from contextstore
+Oct 25 17:04:44 Danilos-iPad com.apple.CDScheduler[23] <Error>: Failed to get user inactivity forecast
+Oct 25 17:04:44 Danilos-iPad com.apple.CDScheduler[23] <Error>: AutoSu doesn't have any prediction yet
+Oct 25 17:04:44 Danilos-iPad com.apple.CDScheduler[23] <Error>: Failed to get device restart forecast
+Oct 25 17:04:45 Danilos-iPad ptpd[160] <Notice>: Photo library available
+Oct 25 17:04:45 Danilos-iPad ptpd[160] <Notice>: PTP interface has been activated at high speed.
+Oct 25 17:04:52 Danilos-iPad ptpd[160] <Notice>: PTP interface has been deactivated.
+Oct 25 17:04:56 Danilos-iPad ptpd[160] <Notice>: Photo library available
+Oct 25 17:04:56 Danilos-iPad ptpd[160] <Notice>: PTP interface has been activated at high speed.
+Oct 25 17:04:58 Danilos-iPad ptpd[160] <Warning>: #### Storage allocated/var/mobile/Media 
+Oct 25 17:04:59 Danilos-iPad timed[39] <Notice>: (Note ) CoreTime: Received time 10/25/2017 21:04:58±60.00 from "MobileLockdown"
+Oct 25 17:04:59 Danilos-iPad timed[39] <Notice>: (Note ) CoreTime: Want active time in 11.62min. Need active time in 8303.28min. Remaining retry interval: 0.000000min.
+Oct 25 17:04:59 Danilos-iPad UserEventAgent[23] <Error>: validateAndAddDefaults(com.apple.timed): End Time (inf) > now (530658299.9) + BACKGROUND_TASK_AGENT_JOB_WINDOW_MAX_TIME_FROM_NOW_SEC (3024000.0) + BACKGROUND_TASK_AGENT_JOB_TIME_ERROR_MARGIN (300.0)
+Oct 25 17:04:59 Danilos-iPad timed[39] <Notice>: (Note ) CoreTime: Current mcc: '0' simulated:'0'.
+Oct 25 17:04:59 Danilos-iPad timed[39] <Notice>: (Note ) CoreTime: Received timezone "America/Los_Angeles" from "MobileLockdown" with mcc 0
+Oct 25 17:04:59 Danilos-iPad timed[39] <Notice>: (Error) CoreTime: Error requesting proactive time check job
+Oct 25 17:05:00 Danilos-iPad installd[41] <Notice>: 0x1f081000 -[MIClientConnection lookupUninstalledWithOptions:completion:]: Lookup uninstalled requested by atc (pid 34) with options (null)
+Oct 25 17:05:03 Danilos-iPad ondemandd[164] <Error>: -[ODRBackgroundMaintenance startBackgroundMaintenanceOperations]
+Oct 25 17:05:04 Danilos-iPad lockdownd[30] <Error>: CFStringGetCString error in locklog
+Oct 25 17:05:04 Danilos-iPad mobile_assertion_agent[172] <Notice>: service_one_connection: Connection closed for client iTunes.
+Oct 25 17:05:08 Danilos-iPad gputoolsd[266] <Notice>: schedule invalidation <DYTransport 0x16e4c120, error: lost transport connection (31)>
+Oct 25 17:05:08 Danilos-iPad gputoolsd[266] <Notice>: terminating daemon 0x16d50a20
+Oct 25 17:05:12 Danilos-iPad SpringBoard[46] <Warning>: Installed apps did change.
+	Added: (null)
+	Removed: {(
+	    "com.deathhammer.homekittryout"
+	)}
+	Modified: (null)
+Oct 25 17:05:12 Danilos-iPad installd[41] <Notice>: 0x1f081000 -[MIClientConnection uninstallIdentifiers:withOptions:completion:]: Uninstall requested by SpringBoard (pid 46) for identifier com.deathhammer.homekittryout with options: (null)
+Oct 25 17:05:12 Danilos-iPad com.apple.xpc.launchd[1] (UIKitApplication:com.deathhammer.homekittryout[0xf66][262]) <Notice>: Service exited due to signal: Killed: 9
+Oct 25 17:05:12 Danilos-iPad installd[41] <Notice>: 0x1f081000 -[MIUninstaller _uninstallBundleWithIdentifier:error:]: Uninstalling identifier com.deathhammer.homekittryout
+Oct 25 17:05:12 Danilos-iPad installd[41] <Notice>: 0x1f081000 -[MIUninstallNotifier performRemovalWithCompletionBlock:]: Destroying container with identifier com.deathhammer.homekittryout at /private/var/containers/Bundle/Application/62F7761C-011E-43FE-BC1C-7DABC4904B7D
+Oct 25 17:05:12 Danilos-iPad installd[41] <Notice>: 0x1f081000 -[MIUninstallNotifier performRemovalWithCompletionBlock:]: Destroying container with identifier com.deathhammer.homekittryout at /private/var/mobile/Containers/Data/Application/624C8C36-822C-4550-A6C7-8A73AF19BAF6
+Oct 25 17:05:12 Danilos-iPad SpringBoard[46] <Warning>: Application 'UIKitApplication:com.deathhammer.homekittryout[0xf66]' exited abnormally via signal.
+Oct 25 17:05:12 Danilos-iPad SpringBoard[46] <Warning>: An application that SpringBoard is not tracking with bundle identifier com.deathhammer.homekittryout just exited.
+Oct 25 17:05:13 Danilos-iPad syncdefaultsd[267] <Notice>: (Note ) marked "com.me.keyvalueservice" topic as "opportunistic" on <APSConnection: 0x1556fd00>
+Oct 25 17:05:14 Danilos-iPad syncdefaultsd[267] <Notice>: (Note ) marked "com.me.keyvalueservice" topic as "enabled" on <APSConnection: 0x1556fd00>
+Oct 25 17:05:16 Danilos-iPad lockdownd[30] <Error>: CFStringGetCString error in locklog
+Oct 25 17:05:19 Danilos-iPad profiled[131] <Notice>: (Note ) MC: Provisioning profiles changed
+Oct 25 17:05:19 Danilos-iPad profiled[131] <Notice>: (Note ) MC: Updating MIS trust...
+Oct 25 17:05:20 Danilos-iPad installd[41] <Error>: 0x1f219000 -[MIBundle isApplicableToOSVersion:error:]: 644: The system version is lower than the minimum OS version specified for bundle at /private/var/containers/Bundle/Application/B989C747-43F5-4192-89C7-2D64BDE80006/iTranslate.app/PlugIns/iMessageExtension.appex. Have 9.3.5; need 10.0
+Oct 25 17:05:20 Danilos-iPad installd[41] <Notice>: 0x1f219000 -[MIBundle pluginKitBundlesSkippingPlatformValidation:withError:]: Ignoring plugin at /private/var/containers/Bundle/Application/B989C747-43F5-4192-89C7-2D64BDE80006/iTranslate.app/PlugIns/iMessageExtension.appex because it doesn't work on this OS version
+Oct 25 17:05:20 Danilos-iPad installd[41] <Error>: 0x1f29b000 -[MIBundle isApplicableToOSVersion:error:]: 644: The system version is lower than the minimum OS version specified for bundle at /private/var/containers/Bundle/Application/64700839-89BB-4BA0-B851-F683C8858705/Skype.app/PlugIns/Skype Intents Extension.appex. Have 9.3.5; need 10.0
+Oct 25 17:05:20 Danilos-iPad installd[41] <Notice>: 0x1f29b000 -[MIBundle pluginKitBundlesSkippingPlatformValidation:withError:]: Ignoring plugin at /private/var/containers/Bundle/Application/64700839-89BB-4BA0-B851-F683C8858705/Skype.app/PlugIns/Skype Intents Extension.appex because it doesn't work on this OS version
+Oct 25 17:05:21 Danilos-iPad ondemandd[164] <Error>: -[ODRBackgroundMaintenance startBackgroundMaintenanceOperations]
+Oct 25 17:05:39 Danilos-iPad kernel[0] <Notice>: virtual IOReturn AppleUSBDeviceMux::message(UInt32, IOService *, void *) - kMessageInterfaceWasDeActivated
+Oct 25 17:05:39 Danilos-iPad kernel[0] <Notice>: AppleUSBDeviceMux::reportStats: USB mux statistics: 
+Oct 25 17:05:39 Danilos-iPad kernel[0] <Notice>: USB mux: 1722 reads / 0 errors, 1062 writes / 0 errors
+Oct 25 17:05:39 Danilos-iPad kernel[0] <Notice>: USB mux: 0 short packets, 0 dups
+Oct 25 17:05:39 Danilos-iPad ptpd[160] <Notice>: PTP interface has been deactivated.
+Oct 25 17:05:39 Danilos-iPad notification_proxy[173] <Error>: 0x1f081000 -[MNPLockdownConnection receiveMessage]: lockdown_receive_message error!
+Oct 25 17:05:39 Danilos-iPad notification_proxy[173] <Error>: 0x1f081000 -[MNPLockdownConnection receiveMessage]: lockdown_receive_message error!
+Oct 25 17:05:39 Danilos-iPad notification_proxy[173] <Error>: 0x1f081000 -[MNPLockdownConnection receiveMessage]: lockdown_receive_message error!
+Oct 25 17:05:39 Danilos-iPad notification_proxy[173] <Error>: 0x1f081000 -[MNPLockdownConnection receiveMessage]: lockdown_receive_message error!
+Oct 25 17:05:40 Danilos-iPad com.apple.StreamingUnzipService[185] <Warning>: -[StreamingUnzipState finishStream]:517: Finishing an incomplete stream! This stream will not be resumable.
+Oct 25 17:05:40 Danilos-iPad ptpd[160] <Notice>: Photo library available
+Oct 25 17:05:40 Danilos-iPad ptpd[160] <Notice>: PTP interface has been activated at high speed.
+Oct 25 17:05:40 Danilos-iPad streaming_zip_conduit[184] <Warning>: __dispatch_source_read_socket_block_invoke_2:228: Failed to finish extraction: Error Domain=SZExtractorErrorDomain Code=3 "Finishing an incomplete stream! This stream will not be resumable." UserInfo={SZExtractorFunctionNameErrorKey=-[StreamingUnzipState finishStream], SZExtractorSourceFileLineErrorKey=517, NSLocalizedDescription=Finishing an incomplete stream! This stream will not be resumable.}
+Oct 25 17:05:40 Danilos-iPad streaming_zip_conduit[184] <Warning>: secure_send_message:162: Got error 1 from lockdown_send_message
+Oct 25 17:05:40 Danilos-iPad streaming_zip_conduit[184] <Warning>: secure_send_error:194: Could not send error response to host
+Oct 25 17:05:52 Danilos-iPad ptpd[160] <Notice>: PTP interface has been deactivated.
+Oct 25 17:05:54 Danilos-iPad ptpd[160] <Notice>: Photo library available
+Oct 25 17:05:54 Danilos-iPad ptpd[160] <Notice>: PTP interface has been activated at high speed.
+Oct 25 17:05:56 Danilos-iPad ptpd[160] <Warning>: #### Storage allocated/var/mobile/Media 
+Oct 25 17:06:04 Danilos-iPad profiled[131] <Notice>: (Note ) MC: Provisioning profiles changed
+Oct 25 17:06:04 Danilos-iPad profiled[131] <Notice>: (Note ) MC: Updating MIS trust...
+Oct 25 17:06:06 Danilos-iPad gputoolsd[269] <Notice>: schedule invalidation <DYTransport 0x1451b990, error: lost transport connection (31)>
+Oct 25 17:06:06 Danilos-iPad gputoolsd[269] <Notice>: terminating daemon 0x1451b7a0
+Oct 25 17:06:10 Danilos-iPad installd[41] <Notice>: 0x1f081000 -[MIClientConnection _doBackgroundInstallationForPath:withOptions:completion:]: Install of "/var/mobile/Media/PublicStaging/prova2.app" type Developer (LSInstallType = (null)) requested by streaming_zip_conduit (pid 184)
+Oct 25 17:06:10 Danilos-iPad installd[41] <Notice>: 0x1f081000 -[MIInstaller performInstallationWithError:]: Installing <MIInstallableBundle ID=com.deathhammer.homekittryout; Version=1, ShortVersion=1.0>
+Oct 25 17:06:10 Danilos-iPad profiled[131] <Notice>: (Note ) MC: Provisioning profiles changed
+Oct 25 17:06:10 Danilos-iPad profiled[131] <Notice>: (Note ) MC: Updating MIS trust...
+Oct 25 17:06:10 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 17:06:10 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 17:06:10 Danilos-iPad installd[41] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 17:06:10 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 17:06:10 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 17:06:10 Danilos-iPad installd[41] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 17:06:10 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 17:06:10 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 17:06:10 Danilos-iPad installd[41] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 17:06:10 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 17:06:10 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 17:06:10 Danilos-iPad installd[41] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 17:06:10 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 17:06:10 Danilos-iPad securityd[84] <Error>:  secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found
+Oct 25 17:06:10 Danilos-iPad installd[41] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 17:06:10 Danilos-iPad installd[41] <Notice>: 0x1f081000 -[MIContainer makeContainerLiveReplacingContainer:reason:withError:]: Made container live for com.deathhammer.homekittryout at /private/var/mobile/Containers/Data/Application/E1FFAD0A-F952-49F1-AC9D-91BE284B5E55
+Oct 25 17:06:10 Danilos-iPad installd[41] <Notice>: 0x1f081000 -[MIContainer makeContainerLiveReplacingContainer:reason:withError:]: Made container live for com.deathhammer.homekittryout at /private/var/containers/Bundle/Application/F354AD5A-8D96-41F0-945C-6BEE744DD2D5
+Oct 25 17:06:11 Danilos-iPad streaming_zip_conduit[184] <Warning>: secure_send_message:162: Got error 1 from lockdown_send_message
+Oct 25 17:06:11 Danilos-iPad streaming_zip_conduit[184] <Warning>: __dispatch_source_read_socket_block_invoke125:268: Failed to send install progress
+Oct 25 17:06:11 Danilos-iPad installd[41] <Notice>: 0x1f081000 -[MIInstaller performInstallationWithError:]: Install Successful; Staging: 0.01s; Waiting: 0.00s; Preflight/Patch: 0.04s, Verifying: 0.47s; Overall: 1.15s
+Oct 25 17:06:11 Danilos-iPad syslog_relay[186] <Notice>: syslog_relay found the ASL prompt. Starting...
+Oct 25 17:06:11 Danilos-iPad online-auth-agent[182] <Error>:  SecTrustEvaluate  [leaf IssuerCommonName SubjectCommonName]
+Oct 25 17:06:11 Danilos-iPad streaming_zip_conduit[184] <Warning>: secure_send_message:162: Got error 1 from lockdown_send_message
+Oct 25 17:06:11 Danilos-iPad streaming_zip_conduit[184] <Warning>: secure_send_status:180: Could not send error response to host
+Oct 25 17:06:11 Danilos-iPad SpringBoard[46] <Warning>: Installed apps did change.
+	Added: {(
+	    "com.deathhammer.homekittryout"
+	)}
+	Removed: {(
+	)}
+	Modified: {(
+	)}
+Oct 25 17:06:17 Danilos-iPad timed[39] <Notice>: (Note ) CoreTime: Received time 10/25/2017 21:06:17±60.00 from "MobileLockdown"
+Oct 25 17:06:17 Danilos-iPad timed[39] <Notice>: (Note ) CoreTime: Want active time in 11.60min. Need active time in 8303.27min. Remaining retry interval: 0.000000min.
+Oct 25 17:06:17 Danilos-iPad timed[39] <Notice>: (Note ) CoreTime: Current mcc: '0' simulated:'0'.
+Oct 25 17:06:17 Danilos-iPad timed[39] <Notice>: (Note ) CoreTime: Received timezone "America/Los_Angeles" from "MobileLockdown" with mcc 0
+Oct 25 17:06:17 Danilos-iPad UserEventAgent[23] <Error>: validateAndAddDefaults(com.apple.timed): End Time (inf) > now (530658377.9) + BACKGROUND_TASK_AGENT_JOB_WINDOW_MAX_TIME_FROM_NOW_SEC (3024000.0) + BACKGROUND_TASK_AGENT_JOB_TIME_ERROR_MARGIN (300.0)
+Oct 25 17:06:17 Danilos-iPad timed[39] <Notice>: (Error) CoreTime: Error requesting proactive time check job
+Oct 25 17:06:18 Danilos-iPad installd[41] <Notice>: 0x1f219000 -[MIClientConnection lookupUninstalledWithOptions:completion:]: Lookup uninstalled requested by atc (pid 34) with options (null)
+Oct 25 17:06:21 Danilos-iPad lockdownd[30] <Error>: CFStringGetCString error in locklog
+Oct 25 17:06:21 Danilos-iPad ondemandd[164] <Error>: -[ODRBackgroundMaintenance startBackgroundMaintenanceOperations]
+Oct 25 17:06:22 Danilos-iPad mobile_assertion_agent[172] <Notice>: service_one_connection: Connection closed for client iTunes.
+Oct 25 17:06:38 Danilos-iPad installd[41] <Error>: 0x1f219000 -[MIBundle isApplicableToOSVersion:error:]: 644: The system version is lower than the minimum OS version specified for bundle at /private/var/containers/Bundle/Application/B989C747-43F5-4192-89C7-2D64BDE80006/iTranslate.app/PlugIns/iMessageExtension.appex. Have 9.3.5; need 10.0
+Oct 25 17:06:38 Danilos-iPad installd[41] <Notice>: 0x1f219000 -[MIBundle pluginKitBundlesSkippingPlatformValidation:withError:]: Ignoring plugin at /private/var/containers/Bundle/Application/B989C747-43F5-4192-89C7-2D64BDE80006/iTranslate.app/PlugIns/iMessageExtension.appex because it doesn't work on this OS version
+Oct 25 17:06:38 Danilos-iPad installd[41] <Error>: 0x1f29b000 -[MIBundle isApplicableToOSVersion:error:]: 644: The system version is lower than the minimum OS version specified for bundle at /private/var/containers/Bundle/Application/64700839-89BB-4BA0-B851-F683C8858705/Skype.app/PlugIns/Skype Intents Extension.appex. Have 9.3.5; need 10.0
+Oct 25 17:06:38 Danilos-iPad installd[41] <Notice>: 0x1f29b000 -[MIBundle pluginKitBundlesSkippingPlatformValidation:withError:]: Ignoring plugin at /private/var/containers/Bundle/Application/64700839-89BB-4BA0-B851-F683C8858705/Skype.app/PlugIns/Skype Intents Extension.appex because it doesn't work on this OS version
